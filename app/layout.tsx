@@ -100,7 +100,7 @@ export const metadata: Metadata = {
     "united airlines payroll",
     "united airlines employee services",
     "united airlines worklife portal",
-    "united airlines employee resources"
+    "united airlines employee resources",
     "flyingtogether",
     "flying together login",
     "flying together ual login",
