@@ -120,7 +120,11 @@ export const metadata: Metadata = {
     "flying together worklife portal",
     "flying together employee resources"    
   ],
-
+  openGraph: {
+    type: 'website',
+    url: "https://united-alightbenefits.com",
+    siteName: "UNITED"
+  }
 }
 
 export default function RootLayout({
